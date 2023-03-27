@@ -1,0 +1,37 @@
+body{
+    background-color: #fff9;
+}
+
+.container{
+    text-align: center;
+    margin: 40px;
+    margin-top: 230px;
+    font-size: 1.5em;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(33, 33, 224);
+}
+
+#value{
+    font-size: 3em;
+}
+
+.btn{
+    border-radius: 7px;
+    margin: 10px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.btn::before{
+    background-color: aquamarine;
+}
+
+footer{
+    text-align: center;
+    font-size: 1.5em;
+}
